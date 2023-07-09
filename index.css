@@ -1,0 +1,54 @@
+body {
+    background-color: #292f36;
+    font-family: Ubuntu, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#save-el {
+    padding-top: 10px;
+    max-width: 200px;  
+    margin: auto;
+}
+
+#increment-btn {
+    background: #292f36;
+}
+
+#save-btn {
+    background: #1C7947;
+}
+
+#save-el {
+    font-weight: bold;
+}
